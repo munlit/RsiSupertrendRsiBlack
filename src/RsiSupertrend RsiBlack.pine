@@ -1,5 +1,5 @@
 /// ╔═══════════════════════════════╗
-/// ║ 	Supertrend RSI				║
+/// ║ 	Super RSI Black				║
 /// ║ 	@	Ultr.					║
 /// ╚═══════════════════════════════╝
 
@@ -40,30 +40,30 @@ AmeTrGrayNickel							= #F1F1F1								// AmeritradeGrayNickel
 	// AmeTrGrayStone							= #999999								// AmeritradeGrayStone
 	// AmeTrGrayIron							= #666666								// AmeritradeGrayIron
 	// AmeTrGrayCharcoal						= #333333								// AmeritradeGrayCharcoal
-	//  AmeTrBlack								= #000000								// AmeritradeBlack
-	//  AmeTrGreenCabbage						= #EBF6E9								// AmeritradeGreenCabbage
-	//  AmeTrGreenVerdeLight70					= #B4D6B2								// AmeritradeGreenVerdeLight70
-	//  AmeTrGreenVerdeLight50					= #83BC7F								// AmeritradeGreenVerdeLight50
-	//  AmeTrGreenVerdeNat						= #40a829								// AmeritradeGreenVerdeNat
-	//  AmeTrGreenVerdeLight20					= #399333								// AmeritradeGreenVerdeLight20
-	//  AmeTrGreenVerde							= #087900								// AmeritradeGreenVerde
-	//  AmeTrGreenVerdeDark20					= #066000								// AmeritradeGreenVerdeDark20
-	//  AmeTrGreenMoss							= #BEE7D3								// AmeritradeGreenMoss
-	//  AmeTrGreenMint							= #6DC4BC								// AmeritradeGreenMint
-	//  AmeTrGreenPine							= #38635A								// AmeritradeGreenPine
-	//  AmeTrRedRose							= #FAD1CF								// AmeritradeRedRose
-	//  AmeTrRedRojaLight50						= #E08988								// AmeritradeRedRojaLight50
-	//  AmeTrRedRojaLight20						= #CD4241								// AmeritradeRedRojaLight20
-	//  AmeTrRedRoja							= #C11312								// AmeritradeRedRoja
-	//  AmeTrRedRojaDark20						= #940F0E								// AmeritradeRedRojaDark20
-	//  AmeTrorangePeach						= #FCE7CA								// AmeritradeorangePeach
-	//  AmeTrorangeCarrot						= #ED8902								// AmeritradeorangeCarrot
-	//  AmeTrorangeYam							= #BD5310								// AmeritradeorangeYam
-	//  AmeTrblueFrost							= #E1EEF9								// AmeritradeblueFrost
-	//  AmeTrblueLagoon							= #316486								// AmeritradeblueLagoon
-	//  AmeTrblueNavy							= #2A5673								// AmeritradeblueNavy
-	//  AmeTrblueNcean							= #64A1C6								// AmeritradeblueNcean
-	//  AmeTrpurpleEggPlant						= #732181								// AmeritradepurpleEggPlant
+	// AmeTrBlack								= #000000								// AmeritradeBlack
+	// AmeTrGreenCabbage						= #EBF6E9								// AmeritradeGreenCabbage
+	// AmeTrGreenVerdeLight70					= #B4D6B2								// AmeritradeGreenVerdeLight70
+	// AmeTrGreenVerdeLight50					= #83BC7F								// AmeritradeGreenVerdeLight50
+	// AmeTrGreenVerdeNat						= #40a829								// AmeritradeGreenVerdeNat
+	// AmeTrGreenVerdeLight20					= #399333								// AmeritradeGreenVerdeLight20
+	// AmeTrGreenVerde							= #087900								// AmeritradeGreenVerde
+	// AmeTrGreenVerdeDark20					= #066000								// AmeritradeGreenVerdeDark20
+	// AmeTrGreenMoss							= #BEE7D3								// AmeritradeGreenMoss
+	// AmeTrGreenMint							= #6DC4BC								// AmeritradeGreenMint
+	// AmeTrGreenPine							= #38635A								// AmeritradeGreenPine
+	// AmeTrRedRose								= #FAD1CF								// AmeritradeRedRose
+	// AmeTrRedRojaLight50						= #E08988								// AmeritradeRedRojaLight50
+	// AmeTrRedRojaLight20						= #CD4241								// AmeritradeRedRojaLight20
+	// AmeTrRedRoja								= #C11312								// AmeritradeRedRoja
+	// AmeTrRedRojaDark20						= #940F0E								// AmeritradeRedRojaDark20
+	// AmeTrorangePeach							= #FCE7CA								// AmeritradeorangePeach
+	// AmeTrorangeCarrot						= #ED8902								// AmeritradeorangeCarrot
+	// AmeTrorangeYam							= #BD5310								// AmeritradeorangeYam
+	// AmeTrblueFrost							= #E1EEF9								// AmeritradeblueFrost
+	// AmeTrblueLagoon							= #316486								// AmeritradeblueLagoon
+	// AmeTrblueNavy							= #2A5673								// AmeritradeblueNavy
+	// AmeTrblueNcean							= #64A1C6								// AmeritradeblueNcean
+	// AmeTrpurpleEggPlant						= #732181								// AmeritradepurpleEggPlant
 
 /// ─── Axi ───
 	// AxiPrimary								= #fc404d								// AxiPrimary
@@ -75,11 +75,11 @@ AmeTrGrayNickel							= #F1F1F1								// AmeritradeGrayNickel
 	// Axi638b46c1								= #fcd758								// Axi638b46c1
 	// Axid07bac9								= #f9b4a8								// Axid07bac9
 	// Axie63a114								= #2c4d5a								// Axie63a114
-	//  Axi8bf0845								= #a4d866								// Axi8bf0845
-	//  Axi75c6da1								= #282424								// Axi75c6da1
-	//  Axi378280f								= #45c2c7								// Axi378280f
-	//  Axi4de92c5								= #6caddf								// Axi4de92c5
-Axi413dab8			   					= #00275d					            // Axi413dab8
+	// Axi8bf0845								= #a4d866								// Axi8bf0845
+	// Axi75c6da1								= #282424								// Axi75c6da1
+	// Axi378280f								= #45c2c7								// Axi378280f
+	// Axi4de92c5								= #6caddf								// Axi4de92c5
+	// Axi413dab8			   					= #00275d					            // Axi413dab8
 	// Axib3fab89								= #55165c								// Axib3fab89
 	// Axi548138f								= #45c2c7								// Axi548138f
 	// Axi5ed9920								= #ea1616								// Axi5ed9920
@@ -208,7 +208,7 @@ ARoPrimary								= #0035FF								// ArbePrimary
 	// EEGFucsia50								= #FE0CB6								// EEGFucsia50
 
 /// ─── Bright Line ───
-	// BrLiYel10								= #FBFD73								// BrightLineBackground Yellow Light
+BrLiYel10								= #FBFD73								// BrightLineBackground Yellow Light
 	// BrLiYel20								= #FFFD52								// BrightLine Yellow Light
 BrLiYel30								= #FDF43C								// BrightLineBackground Yellow High
 	// BrLiYel40								= #FEF301								// BrightLineBackground Yellow Nit
@@ -271,8 +271,8 @@ AllenMint60								= #33FFAC								// AllenMint60
 colorSuperTUp					= input.color(AllenMint60,				title = "Compra")
 colorSuperTDown					= input.color(AllenSky10,				title = "Venta")
 colorSuperTBase					= input.color(ARoPrimary)
-colorSuperTMa					= input.color(AmeTrGrayNickel)
-colorSuperTLat					= input.color(Axi413dab8)
+colorSuperTMa					= input.color(BrLiYel10)
+// colorSuperTLat					= input.color(Axi413dab8)
 
 //// ───────────────────────
 /// ─── Supertrend Rsi
@@ -383,11 +383,12 @@ plot(20,								color = color.from_gradient(rsiValue, 20, 45, color.new(colorSup
 overboughtLine							= plot(70,	color = color.from_gradient(rsiValue, 50, 75, color.new(colorSuperTBase, 73),	color.new(colorSuperTDown, 0)),		title = "",		linewidth = 6,	editable = false)
 oversoldLine							= plot(30,	color = color.from_gradient(rsiValue, 25, 50, color.new(colorSuperTUp, 0),		color.new(colorSuperTBase, 73)),	title = "",		linewidth = 6,	editable = false)
 
-plot(rsiMovingAverage,					color = color.new(colorSuperTMa, 30),		title = "RSI MA",	display = showMovingAverage ? display.all : display.none, linewidth = 2)
+plot(rsiMovingAverage,					color = color.new(colorSuperTMa, 50),		title = "RSI MA",	display = showMovingAverage ? display.all : display.none, linewidth = 2)
+plot(rsiMovingAverage,					color = color.new(colorSuperTMa, 80),		title = "RSI MA",	display = showMovingAverage ? display.all : display.none, linewidth = 6)
 // plot(50,								color = color.new(colorSuperTMa, 70),		title = "Linea Media")
 
 /// ─── Filling ───────
-fill(overboughtLine, oversoldLine,		color = color.new(colorSuperTBase, 90),			title = "Zona de Sobre Compra/Sobre Venta")
+fill(overboughtLine, oversoldLine,		color = color.new(colorSuperTBase, 88),			title = "Zona de Sobre Compra/Sobre Venta")
 fill(supertrendPlot, rsiPlot,			color = trendDirection == 1 ? color.new(colorSuperTDown, 90) : color.new(colorSuperTUp, 90),	title = "Zona de Tendencia")
 fill(supertrendPlot, rsiPlot, rsiValue, rsiSupertrend, color.new(chart.bg_color, 1000),		trendDirection == 1 ? colorSuperTDown : colorSuperTUp)
 
@@ -417,7 +418,7 @@ colRsiDn			= AllenSky10
 colRsiMid			= color.new(AllenSky10,						70)
 
 /// ─── Rsi Gradient
-colRsiGradUp100		= color.new(AllenMint60,					100)
+colRsiGradUp100		= color.new(BrLiYel30,						100)
 colRsiGradUp		= color.new(AllenMint60,					0)
 colRsiGradDn		= color.new(AllenSky10,						0)
 colRsiGradDn100		= color.new(BrLiYel30,						100)
@@ -443,7 +444,7 @@ colRsiCloud			= color.new(AmeTrGrayNickel,				50)
 
 var grpRsi			= ' ── Rsi ── '
 checkRsiShow		= input.bool	(defval = true,			title = 'Ver Rsi',				group = grpRsi)
-checkCloudShow		= input.bool	(defval = false,		title = 'Ver Aura',				group = grpRsi)
+checkCloudShow		= input.bool	(defval = true,			title = 'Ver Aura',				group = grpRsi)
 checkConfirmShow	= input.bool	(defval = true,			title = 'Ver Confirmaciones',	group = grpRsi)
 
 rsiMiddleL			= input			(defval = 50,			title = "Media",				group = grpRsi)
@@ -517,7 +518,7 @@ plot(checkRsiShow ? rsiInsRsi : na,							color = color.new(colorCrOver, 90),		l
 fill(overBoughtLine,		overBoughtLineUp,			color = color.from_gradient(rsiInsRsi, 60, 75, color.new(colRsiGround, 73),		color.new(colRsiRibbonDn, 10)))
 fill(overSoldLine,			overSoldLineDown,			color = color.from_gradient(rsiInsRsi, 25, 40, color.new(colRsiRibbonUp, 10),	color.new(colRsiGround, 73)))
 
-fill(overBoughtLine,		overSoldLine,				color = color.new(colRsiGround, 90))
+// fill(overBoughtLine,		overSoldLine,				color = color.new(colRsiGround, 90))
 
 /// ─── Gradient ───
 fill(rsiPlotLine,			rsiMidLineL,		100, 60,	top_color = colRsiGradUp,			bottom_color = colRsiGradUp100,			editable = false)
